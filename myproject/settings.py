@@ -25,7 +25,7 @@ SECRET_KEY = 'betsff(e3$v-n@gc53*afg^r36tiz$4#lujpjxub1!(@zkxfl9'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['tanujelasticenv-env.eba-aeqefiwp.eu-west-1.elasticbeanstalk.com']
+ALLOWED_HOSTS = ['tanujelasticenv-env.eba-aeqefiwp.eu-west-1.elasticbeanstalk.com','http://tanujelasticenv-env.eba-aeqefiwp.eu-west-1.elasticbeanstalk.com/signin']
 
 
 # Application definition
